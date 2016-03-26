@@ -1,11 +1,9 @@
-<speech>
-  <speaker-of-interest>hillaryclinton</speaker-of-interest>
-  <src>http://time.com/3920332/transcript-full-text-hillary-clinton-campaign-launch/</src>
-  <src-date>2015-06-13</src-date>
-  <index>http://hillaryspeeches.com/tag/transcript/page/2/</index>
-  <type>speech</type>
-  <text>
-
+speaker-of-interest: hillaryclinton
+src: http://time.com/3920332/transcript-full-text-hillary-clinton-campaign-launch/
+src-date: 2015-06-13
+index: http://hillaryspeeches.com/tag/transcript/page/2/
+type: speech
+text: >
 
     Thank you! Oh, thank you all! Thank you so very, very much.
 
@@ -434,6 +432,3 @@
     An America where a father can tell his daughter: yes, you can be anything you want to be. Even President of the United States.
 
     Thank you all. God bless you. And may God bless America.
-    
-  </text>
-</speech>

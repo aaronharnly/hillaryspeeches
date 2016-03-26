@@ -1,9 +1,9 @@
-<speech>
-  <src>http://www.npr.org/2016/01/20/463748438/transcript-nprs-interview-with-hillary-rodham-clinton</src>
-  <src-date>2016-01-20</src-date>
-  <index>http://hillaryspeeches.com/tag/transcript/</index>
-  <type>interview</type>
-  <text>
+speaker-of-interest: hillaryclinton
+src: http://www.npr.org/2016/01/20/463748438/transcript-nprs-interview-with-hillary-rodham-clinton
+src-date: 2016-01-20
+index: http://hillaryspeeches.com/tag/transcript/
+type: interview
+raw-text: >
     <p><em>Former Secretary of State and Democratic presidential candidate Hillary Clinton spoke with NPR's Ari Shapiro in San Antonio. The transcript below has been edited for clarity.</em></p>
     <div class="hr"><hr></div>
       <p><strong>Ari Shapiro: I want to begin with the latest news about the private email server that you used as secretary of state, and a letter from the inspector general for the intelligence agencies saying that there was material in some of these emails that exceeded top secret classification.</strong></p>   
@@ -115,6 +115,3 @@
       <p>I've — you know, now gotten into the real hard-core hot peppers. But I can't do them all, so if you're out there listening, don't meet me with a raw habanero and say, "OK, take a bite."</p>   
       <p><strong></strong><strong>Secretary Clinton, thank you very much for joining us.</strong></p>   
       <p>My pleasure. Thank you so much.</p>
-
-    </text>
-</speech>
